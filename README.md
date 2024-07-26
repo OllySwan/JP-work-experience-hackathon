@@ -1,7 +1,6 @@
 # JP Morgan Work Experience Hackathon
 
-**Team Mentor:**  
-Olly Swan
+**Team Mentor:**  Olly Swan
 
 **Participants:**
 
