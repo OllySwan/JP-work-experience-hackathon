@@ -1,0 +1,25 @@
+body {
+    background-color: #1c1c1c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pokemonInfo {
+    margin-top: 20px;
+}
+p {
+    font-size:18px;
+    color:#EDEDED;
+    font-family:Helvetica
+}
+
+h1 {
+    color: #3ecf90;
+    font-size: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: #c8c8c8;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
