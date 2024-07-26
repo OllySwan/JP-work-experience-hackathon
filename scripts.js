@@ -1,3 +1,4 @@
+
 document.getElementById('pokemonForm').addEventListener('submit', function(event) {
     event.preventDefault();
     const pokemonName = document.getElementById('pokemonName').value.toLowerCase();
